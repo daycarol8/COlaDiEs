@@ -5,3 +5,5 @@ O COlaDiEs é um aplicativo com foco em gameficar os ensinamentos básicos de pr
 O nome COlaDiEs surge da junção das palavras CODE e ladies.
 
 ![WhatsApp Image 2021-02-10 at 18 01 00](https://user-images.githubusercontent.com/48994718/107572259-c8b80100-6bca-11eb-942e-3e9c49b96502.jpeg)
+
+Link para gameplay: https://youtu.be/oWQ1lThHLnM
