@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 92ae9e8c42be5b647af10c88d1c64ef2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - locked2: {instanceID: 0}
+  - locked3: {instanceID: 0}
+  - locked4: {instanceID: 0}
+  - locked5: {instanceID: 0}
+  - locked6: {instanceID: 0}
+  - locked1: {instanceID: 0}
+  - setLocked: {instanceID: 0}
+  - finalButton: {fileID: 9200110762636379677, guid: 081d1ee43ac9ab7428dc9752d28ce92c,
+      type: 3}
+  - hand: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

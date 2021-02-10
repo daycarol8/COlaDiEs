@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: cbf8c66211b666046bc70177fbd934d1
+  - enabled: 1
+    path: Assets/Scenes/MapaLevel.unity
+    guid: e7e482e8d798d8543a8a086e1276ba8d
+  - enabled: 1
+    path: Assets/Scenes/Infos.unity
+    guid: 07c388df6b1acc144a58fe74a8a76341
+  - enabled: 1
+    path: Assets/Scenes/TextFaseUm.unity
+    guid: 5736da21ea26d6c4ba04bdf7936b5cd6
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TextPosFaseUm.unity
+    guid: 64ee2ebfa4d466d4a85a85fcbeff6b06
+  m_configObjects: {}
